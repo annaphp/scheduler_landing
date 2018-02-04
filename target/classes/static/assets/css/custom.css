@@ -1,0 +1,13 @@
+body{
+	  text-align: center; 
+	  margin: auto;
+}
+#intro_body{
+	background-image: url("/assets/images/vincent-guth-151173.jpg");
+	background-size: cover;
+	opacity: 0.5;
+}
+
+.intro-body{
+	
+}
